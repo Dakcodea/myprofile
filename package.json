@@ -1,0 +1,30 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "Profile Page",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakcodea/myprofile.git"
+  },
+  "author": "Dakota Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dakcodea/myprofile/issues"
+  },
+  "homepage": "https://github.com/Dakcodea/myprofile#readme"
+}
